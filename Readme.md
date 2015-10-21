@@ -19,4 +19,5 @@ In code reviews, it is common to put in TODOs when a reviewer points out some th
 
 ## Language Style Guides
 
+- [JS](/style/js.md)
 - [React](/style/react.md)
