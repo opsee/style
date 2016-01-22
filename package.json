@@ -1,0 +1,11 @@
+{
+  "name": "Opsee Style",
+  "version": "1.0.0",
+  "description": "Styleguide",
+  "author": "Opsee",
+  "license": "Restricted",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/opsee/style.git"
+  },
+}
