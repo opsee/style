@@ -1,9 +1,10 @@
 {
   "name": "opsee-style",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Styleguide",
   "author": "Opsee",
-  "license": "Restricted",
+  "private": true,
+  "license": "UNLICENSED",
   "repository": {
     "type": "git",
     "url": "git://github.com/opsee/style.git"
