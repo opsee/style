@@ -156,10 +156,9 @@
       "before": false,
       "after": true
     }],
-    "space-after-keywords": 1,       // http://eslint.org/docs/rules/space-after-keywords
+    "keyword-spacing": 1,       // http://eslint.org/docs/rules/keyword-spacing
     "space-before-function-paren": [1, "never"], // http://eslint.org/docs/rules/space-before-function-paren
     "space-infix-ops": 1,            // http://eslint.org/docs/rules/space-infix-ops
-    "space-return-throw-case": 1,    // http://eslint.org/docs/rules/space-return-throw-case
 
 /**
  * JSX style
